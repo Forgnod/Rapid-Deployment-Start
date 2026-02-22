@@ -1,0 +1,10 @@
+{
+  "name": "Rapid-Deployment-Start",
+  "version": "0.1.4",
+  "title": "Forgnods Rapid Deployment Start",
+  "author": "Forgnod",
+  "description": "Mech-Armor, Reactors, Shield, Roboports, Robots, Exoskeletons and the Harbinger. Spicy!",
+  "factorio_version": "2.0",
+  "thumbnail": "thumbnail.png",
+  "dependencies": ["base >= 2.0"]
+}
